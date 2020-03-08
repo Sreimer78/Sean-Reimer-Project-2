@@ -1,2 +1,2 @@
-# Sean-Reimer-Project-2
-This repository is for my second project of Fundamentals in Web Development (CSS code)
+# Sean-Reimer-Project-1
+This repository is for my first Project of Fundamentals in Web Development ITMD-361

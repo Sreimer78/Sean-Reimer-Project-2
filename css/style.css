@@ -1,0 +1,25 @@
+# caption {
+	color: red;
+}
+
+# main-content {
+	background-color: pink;
+}
+
+#blue {
+	color: blue;
+}
+
+h1 {
+	color: red;
+	background-color: rgb(001, 110, 004);
+	font-family: helvetica;
+	float: left;
+	font-weight: 600;
+	font-weight: 200;
+	box-sizing: border-box;
+	font-size: 3em;
+	padding: 50px 10px 5px 10px;
+	margin: 5px 10px;
+	width: 35%;
+	

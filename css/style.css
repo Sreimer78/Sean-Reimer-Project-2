@@ -2,8 +2,12 @@
 	color: red;
 }
 
+#navigation {
+	float: center;
+}
+
 #main-content {
-	background-color: pink;
+	background-color: ivory;
 }
 
 #blue {
@@ -11,20 +15,20 @@
 }
 
 h1 {
-	color: red;
-	background-color: rgb(001, 110, 004);
-	font-family: helvetica;
-	float: left;
-	font-weight: 600;
+	color: blue;
+	background-color: silver;
+	font-family: serif;
+	float: center;
+	font-weight: 400;
 	font-weight: 200;
 	box-sizing: border-box;
-	font-size: 3em;
-	padding: 50px 10px 5px 10px;
-	margin: 5px 10px;
-	width: 35%;
-	border: 5px solied red;
+	font-size: 2em;
+	padding: 5px 5px 5px 5px;
+	margin: 1px 1px;
+	width: 20%;
+	border: 1px solid green;
 	overflow: hidden;
-	border-radius: 50% 20%;
+	border-radius: 25% 25%;
 }
 
 p {
@@ -38,14 +42,21 @@ p {
 	background-color: #56f442;
 }
 
-.first-para (
-  color: yellow;
-  font-size: 24px;
+.first-para {
+  color: red;
+  font-size: 15px;
+  background-color: silver;
+  
 }
 
+.first-sec {
+	background-color: ivory;
+}
+
+
 span {
-	color: red;
-	font-style: italic;
+	color: blue;
+	font-style: bold;
 }
 
 

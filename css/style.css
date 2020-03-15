@@ -26,12 +26,18 @@ h1 {
 h3 {
 	background-color: antiquewhite;
 	font-family: cursive;
+	padding: 5px;
 }
 
 p {
 	border: 1px solid grey;
-	padding: 0;
+	padding: 3px;
 	margin: 0;
+}
+
+.sect-one {
+	background-color: antiquewhite;
+	border: 2px solid black;
 }
 
 .first-para {
@@ -40,14 +46,9 @@ p {
   background-color: antiquewhite;
 }
 
-.sec-one {
-	background-color: antiquewhite;
-	border: 2px solid black;
-}
-
 .sec-para {
-  color: black;
-  font-size: 15px;
+  color: blue;
+  font-size: 1em;
   font-style: italic;
   background-color: antiquewhite;
 }

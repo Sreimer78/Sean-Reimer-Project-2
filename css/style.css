@@ -9,7 +9,7 @@
 h1 {
 	color: blue;
 	background-color: white;
-	font-family: fantasy;
+	font-family: times new roman;
 	float: center;
 	font-weight: 300;
 	font-weight: 200;
@@ -36,8 +36,9 @@ p {
 }
 
 .sect-one {
-	background-color: antiquewhite;
-	border: 2px solid black;
+  background-color: antiquewhite;
+  border: 2px solid black;
+  font-size: 1em;
 }
 
 .first-para {
